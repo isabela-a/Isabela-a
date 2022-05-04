@@ -31,7 +31,7 @@
   <h3>✨ Stats: </h3><br/>
   <div>
     <a href="https://github.com/Isabela-ac" style="margin: 20px" >
-      <img align="center" width=396 src="https://github-readme-stats.vercel.app/api?username=Isabela-ac&theme=tokyonight&count_private=true" />
+      <img align="center" width=396 src="https://github-readme-stats.vercel.app/api?username=Isabela-ac&hide_border=true&theme=tokyonight&count_private=true" />
     </a>
     <a href="https://github.com/Isabela-ac" style="margin: 20px" >
       <img align="center" width=396 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabela-ac&layout=compact&show_icons=true&hide_border=true&theme=tokyonight&langs_count=10" />
