@@ -4,7 +4,7 @@
 
 <div align="center" justify-content="space-between">
   <img align="right" width="300px" src="./images/enterprise.gif" />
-  <p align="left">
+  <p align="left" margin-right="20px">
     I'm Isa, a brazilian (front end) web developer, INTP (Logician personality type) and I know a lot of useless (or not) random things. I'm a curious person, that want to know and learn a lot of stuff since I was a little me. I need music for living &#127911; and in my free time I like to read, watch things, play games, and practice some hobbies / skills or learn something new. I think the most interesting animal is the octopus &#128025;, but I really like whales and jellyfish as well.
     <br> At this moment I'm a student at <a href="https://betrybe.com">Trybe</a> in partnership with <a href="https://www.xpinc.com/">XP Inc.</a>, longing to be a full stack developer. If you want, call me to chat &#128172; I'd love that  ;)
     <br> Now, if you don't mind... <strong>Helm, set course to anywhere unexplored, warp 9. Engage!!</strong>
