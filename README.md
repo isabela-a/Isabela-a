@@ -6,7 +6,7 @@
   <img align="right" margin-left="5px" width="250px" src="./images/enterprise.gif" />
   <p align="left">
     I'm Isa, a brazilian (front end) web developer, INTP (Logician personality type) and I know a lot of useless (or not) random things. I'm a curious person, that want to know and learn a lot of stuff since I was a little me. I need music for living &#127911; and in my free time I like to read, watch things, play games, and practice some hobbies / skills or learn something new. I think the most interesting animal is the octopus &#128025;, but I really like whales and jellyfishes as well.
-    <br> I completed a computer technician course at <a href="https://www.ifsp.edu.br/">IFSP</a>, studed at <a href="https://betrybe.com">Trybe</a> being now a full stack software engineer, and had experience working at <a href="https://www.xpinc.com/">XP Inc. as a front-end developer</a>. If you want, call me to chat &#128172; I'd love that  ;)
+    <br> I completed a computer technician course at <a href="https://www.ifsp.edu.br/">IFSP</a>, studed at <a href="https://betrybe.com">Trybe</a> being now a full stack software engineer, and had experience working at <a href="https://www.xpinc.com/">XP Inc.</a> as a front-end developer. If you want, call me to chat &#128172; I'd love that  ;)
     <br> Now, if you don't mind... <strong>Helm, set course to anywhere unexplored, warp 9. Engage!!</strong>
   </p>
 </div> 
