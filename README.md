@@ -2,11 +2,11 @@
 
 ### cout<<"Hello, World!"; </br>
 
-<div align="center">
-  <img align="right" width="350px" src="./images/enterprise.gif" />
+<div align="center" justify-content="space-between">
+  <img align="right" margin-left="5px" width="250px" src="./images/enterprise.gif" />
   <p align="left">
-    I'm Isa, a brazilian (front end) web developer, INTP (Logician personality type) and I know a lot of useless (or not) random things. I'm a curious person, that want to know and learn a lot of stuff since I was a little me. I need music for living &#127911; and in my free time I like to read, watch things, play games, and practice some hobbies / skills or learn something new. I think the most interesting animal is the octopus &#128025;, but I really like whales and jellyfish as well.
-    <br> At this moment I'm a student at <a href="https://betrybe.com">Trybe</a> in partnership with <a href="https://www.xpinc.com/">XP Inc.</a>, longing to be a full stack developer. If you want, call me to chat &#128172; I'd love that  ;)
+    I'm Isa, a brazilian (front end) web developer, INTP (Logician personality type) and I know a lot of useless (or not) random things. I'm a curious person, that want to know and learn a lot of stuff since I was a little me. I need music for living &#127911; and in my free time I like to read, watch things, play games, and practice some hobbies / skills or learn something new. I think the most interesting animal is the octopus &#128025;, but I really like whales and jellyfishes as well.
+    <br> I completed a computer technician course at <a href="https://www.ifsp.edu.br/">IFSP</a>, studed at <a href="https://betrybe.com">Trybe</a> being now a full stack software engineer, and had experience working at <a href="https://www.xpinc.com/">XP Inc.</a> as a front-end developer. If you want, call me to chat &#128172; I'd love that  ;)
     <br> Now, if you don't mind... <strong>Helm, set course to anywhere unexplored, warp 9. Engage!!</strong>
   </p>
 </div> 
@@ -26,7 +26,7 @@
     <code><img align="center" style="margin: 20px" alt="Jest" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></code>
   </div>
   <br/>
-
+<!-- 
 <hr>
   <h3>✨ Stats: </h3><br/>
   <div>
@@ -37,10 +37,10 @@
       <img align="center" width=396 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabela-ac&layout=compact&show_icons=true&hide_border=true&theme=tokyonight&langs_count=10" />
     </a>
   </div>
-  <br/>
+  <br/> -->
 
 <hr>
-  <h3 align="center">✨ Contact: </h3><br/>
+  <h3 align="center">✨ Find me at: </h3><br/>
   <div align="center">
     <a href="https://www.linkedin.com/in/isabela-assuncao/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin icon" style="margin-right: 40px">
